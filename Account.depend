@@ -1,0 +1,101 @@
+# depslib dependency file v1.0
+1546892899 source:c:\users\ayﬁe\desktop\account\accountimp.cpp
+	<iostream>
+	<conio.h>
+	<cstring>
+	<sstream>
+	<iomanip>
+	"Account.h"
+
+1546892467 c:\users\ayﬁe\desktop\account\account.h
+	<iostream>
+	<ctime>
+	<iomanip>
+
+1546947346 source:c:\users\ayﬁe\desktop\account\main.cpp
+	<iostream>
+	"Bank.h"
+	"Account.h"
+	"ShortTerm.h"
+	"LongTerm.h"
+	"Special.h"
+	"Current.h"
+
+1546892651 c:\users\ayﬁe\desktop\account\bank.h
+	<iostream>
+	<conio.h>
+	<ctime>
+	"Account.h"
+
+1546943156 c:\users\ayﬁe\desktop\account\shortterm.h
+	<iostream>
+	<conio.h>
+	<string>
+	<iomanip>
+	"Account.h"
+	"Bank.h"
+
+1546930192 c:\users\ayﬁe\desktop\account\longterm.h
+	<iostream>
+	<conio.h>
+	<string>
+	<iomanip>
+	"Account.h"
+	"Bank.h"
+
+1546943333 c:\users\ayﬁe\desktop\account\special.h
+	<iostream>
+	<conio.h>
+	<string>
+	<iomanip>
+	"Account.h"
+
+1546803030 c:\users\ayﬁe\desktop\account\current.h
+	<iostream>
+	<conio.h>
+	<string>
+	<iomanip>
+	"Account.h"
+
+1546943321 source:c:\users\ayﬁe\desktop\account\currentimp.cpp
+	<iostream>
+	<conio.h>
+	<string>
+	<iomanip>
+	"Account.h"
+	"Current.h"
+
+1546943254 source:c:\users\ayﬁe\desktop\account\longtermimp.cpp
+	<iostream>
+	<conio.h>
+	<string>
+	<iomanip>
+	"Account.h"
+	"LongTerm.h"
+
+1546943358 source:c:\users\ayﬁe\desktop\account\specialimp.cpp
+	<iostream>
+	<conio.h>
+	<string>
+	"Account.h"
+	"Special.h"
+
+1546933801 source:c:\users\ayﬁe\desktop\account\bankimp.cpp
+	<iostream>
+	<conio.h>
+	<string>
+	"Bank.h"
+	"Account.h"
+	"ShortTerm.h"
+	"LongTerm.h"
+	"Special.h"
+	"Current.h"
+
+1546943410 source:c:\users\ayﬁe\desktop\account\shorttermimp.cpp
+	<iostream>
+	<conio.h>
+	<string>
+	<iomanip>
+	"ShortTerm.h"
+	"Account.h"
+
